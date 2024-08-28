@@ -1,0 +1,5 @@
+/task.txt
+/.env
+/.venv/
+/.idea/
+/__pycache__/
