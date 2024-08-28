@@ -1,4 +1,14 @@
 # Crypto Bot
+Для запуска выполнете следующие команды:
+```
+git clone https://github.com/Tarasyonok/a-task
+cd a-task
+pip install -r requirements.txt
+python main.py
+```
+
+Username бота: @avanguard_crypto_bot
+
 
 Для установки отслеживания введите такую команду:
 /tracker <cлаг криптовалюты> <min торг. знач.> <max торг. знач.>
